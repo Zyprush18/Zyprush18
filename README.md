@@ -1,7 +1,7 @@
 <!-- Profile README for Zyprush18 -->
 
 <h1 align="center">
-  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Zyprush18
+  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Muh.Zulhaji
 </h1>
 <p align="center">Still learning. Just building random things in my free time. 😅</p>
 
