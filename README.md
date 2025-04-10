@@ -1,7 +1,7 @@
 <!-- Profile README for Zyprush18 -->
 
 <p align="center">
-  <img src="https://imgur.com/a/Sr4Ak6I.jpg" width="300" alt="Still a newbie" />
+  <img src="https://i.imgur.com/UfRV6ls.png" width="300" alt="Still a newbie" />
 </p>
 
 
