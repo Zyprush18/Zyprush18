@@ -30,7 +30,7 @@
 
 ---
 
-### 📚 What I’ve Been Writing (Mostly Gabut Stuff)
+### 📚 What I’ve Been Writing
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyprush18&layout=compact&theme=tokyonight" alt="Top Languages" />
