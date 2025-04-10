@@ -17,6 +17,13 @@
 
 ---
 
+### 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyprush18&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zyprush18&show_icons=true&theme=tokyonight" alt="Zyprush18 GitHub Stats"/>
