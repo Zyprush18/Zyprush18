@@ -3,7 +3,7 @@
 <h1 align="center">
   Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Zyprush18
 </h1>
-<p align="center">Just a beginner who enjoys learning to build cool stuff on the backend 😄</p>
+<p align="center">Still learning. Just some random stuff from my free time. 😅</p>
 
 ---
 
