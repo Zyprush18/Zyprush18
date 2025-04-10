@@ -1,34 +1,32 @@
-<h1 align="center">Hey there 👋, I'm Zyprush18</h1>
-<p align="center">Just a curious backend enthusiast messing around with code and ideas 😄</p>
+<!-- Profile README for Zyprush18 -->
+
+<h1 align="center">
+  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Zyprush18
+</h1>
+<p align="center">Just a beginner who enjoys learning to build cool stuff on the backend 😄</p>
 
 ---
 
-### 🚀 What I'm up to
-- Learning **Golang** and exploring **Blockchain**
-- Building **backend APIs** for a POS (point-of-sale) and e-commerce project
+### 🚧 Currently Learning
+- Exploring the world of **Laravel** and **Golang**
+- Still figuring out the best practices and building real projects to sharpen my skills
+- Slowly but surely 😅
 
 ---
 
-### 🛠️ Tools & Skillset
-- Backend: Golang, PHP, JavaScript
-- Database: MySQL, SQLite
-- Frameworks: Express.js, Laravel, occasionally tinkering with Ionic
+### 🛠️ Tools & Technologies
+- Languages: PHP, Golang, JavaScript
+- Frameworks: Laravel (still learning)
+- Databases: MySQL, SQLite
 - Tools: Git, Postman, VS Code
-
----
-
-### 💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyprush18&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zyprush18&show_icons=true&theme=tokyonight" alt="Zyprush18 GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zyprush18&show_icons=true&theme=tokyonight" alt="Zyprush18 GitHub stats"/>
 </p>
 
 ---
 
-> "Coding isn't about how fast you type, it's about how patient you are with debugging." 😎
+> "Still a newbie, but every line of code brings me one step closer." 🚀
