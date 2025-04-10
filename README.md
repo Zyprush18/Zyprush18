@@ -29,4 +29,10 @@
 
 ---
 
+### 📊 GitHub Stats (Not Impressive, Still Learning 😅)
+
+![Zyprush18's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyprush18&show_icons=true&theme=tokyonight&hide=prs&count_private=true)
+
+---
+
 > "Still a newbie, but every line of code brings me one step closer." 🚀
