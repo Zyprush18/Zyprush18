@@ -3,14 +3,14 @@
 <h1 align="center">
   Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Muh.Zulhaji
 </h1>
-<p align="center">Still learning. Just building random things in my free time. 😅</p>
+<p align="center">Still learning. Just building random things in my free time. </p>
 
 ---
 
 ### 🚧 Currently Learning
 - Exploring the world of **Laravel** and **Golang**
 - Trying to understand best practices and build small projects
-- Learning slowly, but steadily 😅
+- Learning slowly, but steadily 
 
 ---
 
