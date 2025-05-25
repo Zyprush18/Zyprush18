@@ -1,41 +1,22 @@
 <!-- Profile README for Zyprush18 -->
 
-<h1 align="center">
-  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Muh.Zulhaji
-</h1>
-<p align="center">Still learning. Just building random things in my free time. </p>
-
----
-
-### 🚧 Currently Learning
-- Exploring the world of **Laravel** and **Golang**
-- Trying to understand best practices and build small projects
-- Learning slowly, but steadily 
-
----
-
-### 🛠️ Tools & Technologies
-- **Languages:** PHP, Golang, JavaScript
-- **Frameworks:** Laravel (still learning)
-- **Databases:** MySQL, SQLite
-- **Tools:** Git, Postman, VS Code
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">Hi, I'm Zulhaji 👨‍💻</h1>
+<p align="center">Just learning... not sure where it's going, but still learning anyway.</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zyprush18&show_icons=true&theme=tokyonight" alt="Zyprush18 GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Zyprush18&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
-
----
-
-### 📚 What I’ve Been Writing
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyprush18&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zyprush18&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyprush18&layout=compact&hide_border=true&theme=github_dark&hide_title=true" width="48%" />
 </p>
 
----
+<p align="center">
+  🛠️ Go · PHP · Laravel · MySQL   
+  💡 Still learning — no clear path, just curiosity and consistency.
+</p>
 
-> _"Still a newbie, but every line of code brings me one step closer."_ 🚀
+<p align="center">
+  <i>“One step at a time. Even when I don't know where the path leads.”</i>
+</p>
