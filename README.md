@@ -4,7 +4,7 @@
 <p align="center">Just learning... not sure where it's going, but still learning anyway.</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zyprush18&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Zyprush18&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
