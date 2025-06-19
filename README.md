@@ -1,4 +1,3 @@
-<!-- Profile README for Zyprush18 -->
 
 <h1 align="center">Hi, I'm Zulhaji 👨‍💻</h1>
 <p align="center">Just learning... not sure where it's going, but still learning anyway.</p>
