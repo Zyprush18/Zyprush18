@@ -3,8 +3,9 @@
 <h1 align="center">Hi, I'm Zulhaji 👨‍💻</h1>
 <p align="center">Just learning... not sure where it's going, but still learning anyway.</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zyprush18&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<a href="https://github.com/Zyprush18">
+    <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zyprush&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
@@ -12,6 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyprush18&layout=compact&hide_border=true&theme=github_dark&hide_title=true" width="48%" />
 </p>
 
+</a>
 <p align="center">
   🛠️ Go · PHP · Laravel · MySQL   
   💡 Still learning — no clear path, just curiosity and consistency.
