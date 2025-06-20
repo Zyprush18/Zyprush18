@@ -3,9 +3,10 @@
 <p align="center">Just learning... not sure where it's going, but still learning anyway.</p>
 
 <a href="https://github.com/Zyprush18">
-    <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zyprush18&theme=github-dark-blue&hide_border=true" />
+   <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyprush18&theme=github-dark-blue&hide_border=true" alt="Zyprush GitHub streak"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zyprush18&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&count_private=true" width="48%" />
