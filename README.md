@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Zyprush18">
    <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyprush18&theme=github-dark-blue&hide_border=true" alt="Zyprush GitHub streak"/>
+      <img src="https://streak-stats.demolab.com?user=Zyprush18&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
