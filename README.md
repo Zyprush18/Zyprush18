@@ -15,7 +15,7 @@
 
 </a>
 <p align="center">
-  🛠️ Go · PHP · Laravel · MySQL   
+  🛠️ Golang · PHP · Laravel · MySQL   
   💡 Still learning — no clear path, just curiosity and consistency.
 </p>
 
